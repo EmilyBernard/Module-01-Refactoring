@@ -4,7 +4,14 @@
     Clone repostory to local computer
     Clone starter code inside new Repository
 
-# Refactor Steps
+# Fix Link
     Update Code in HTML to fix "Search Engine Optimization" link to function
-        Push to GitHub
-    Next Look over CSS file to re-organize
+
+# Refactor Steps
+    Referenced video and webpage for better understanding of refactoring
+        https://1stwebdesigner.com/refactoring-html-and-css/
+        https://www.geeksforgeeks.org/refactoring-introduction-and-its-techniques/
+    Next Look over CSS file to re-organize   
+    In CSS combined "side-margin" or "Benefits" from 57 lines of code to 26 lines
+    In HTML replaced many <div> to semantic lables i.e.  header, body, side-margin, footer 
+   
