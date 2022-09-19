@@ -22,9 +22,16 @@
     Deployed webpage in GitHub
     Opened deplyed webpage to assess errors - none
 
+
 # Screenshots
 
-![57E731FF-8C86-4477-9646-6A43ABC22784_1_201_a](https://user-images.githubusercontent.com/112719573/191117238-8322a798-9e5d-4559-a4bc-22edc444b8d4.jpeg)![Screen Shot 2022-09-19 at 4 32 45 PM](https://user-images.githubusercontent.com/112719573/191117632-3a323606-5596-47d8-aaa4-b3604fa40124.jpeg)
+HTML Code Before & After ![Screen Shot 2022-09-19 at 4 32 45 PM](https://user-images.githubusercontent.com/112719573/191117632-3a323606-5596-47d8-aaa4-b3604fa40124.jpeg)
+
+CSS Code Before & After ![Screen Shot 2022-09-19 at 4 32 11 PM](https://user-images.githubusercontent.com/112719573/191118025-44899af1-3ba2-4e37-bb53-11ab6c6a278b.jpeg)
+
+Deployed Website on GitHub<img width="1440" alt="Screen Shot 2022-09-19 at 4 35 23 PM 2" src="https://user-images.githubusercontent.com/112719573/191118343-c3233137-80f3-471c-ae30-268c4f2c7634.png">
+
+
 
 
 
