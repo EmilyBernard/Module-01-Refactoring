@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-1st steps:
+    1st steps:
     Create Repository
     Clone repostory to local computer
     Clone starter code inside new Repository
