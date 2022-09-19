@@ -22,7 +22,9 @@
     Deployed webpage in GitHub
     Opened deplyed webpage to assess errors - none
 
-# Screenshot
+# Screenshots
+
+
     
 
    
