@@ -24,8 +24,9 @@
 
 # Screenshots
 
-[
-](https://github.com/EmilyBernard/automatic-enigma/blob/main/assets/images/Screenshot%201%20HTML%20code.jpeg)
+![57E731FF-8C86-4477-9646-6A43ABC22784_1_201_a](https://user-images.githubusercontent.com/112719573/191117238-8322a798-9e5d-4559-a4bc-22edc444b8d4.jpeg)![Screen Shot 2022-09-19 at 4 32 45 PM](https://user-images.githubusercontent.com/112719573/191117632-3a323606-5596-47d8-aaa4-b3604fa40124.jpeg)
+
+
 
 
     
