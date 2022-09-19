@@ -24,6 +24,9 @@
 
 # Screenshots
 
+[
+](https://github.com/EmilyBernard/automatic-enigma/blob/main/assets/images/Screenshot%201%20HTML%20code.jpeg)
+
 
     
 
