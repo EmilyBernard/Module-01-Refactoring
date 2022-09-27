@@ -20,7 +20,10 @@
 
 # Deployed
     Deployed webpage in GitHub
-    Opened deplyed webpage to assess errors - none
+    Opened deplyed webpage to assess errors.
+
+# Link to Active Website
+    https://emilybernard.github.io/Module-01-Refactoring/#search-engine-optimization
 
 
 # Screenshots
