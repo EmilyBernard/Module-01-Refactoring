@@ -18,6 +18,12 @@
     Continued to condense code in both CSS & HTML
     Added comments in CSS
 
+# Added or updated after deployed
+    added link to deployed website to README file below
+    updated title element to full name of the company for better SEO
+    Updated 7 images' alt text for better SEO - referenced blog on supercool.co.uk "How to write good alt text"
+    
+
 # Deployed
     Deployed webpage in GitHub
     Opened deplyed webpage to assess errors.
